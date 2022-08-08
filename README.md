@@ -13,7 +13,7 @@ All the clues to this mystery are buried in a huge database, and you need to use
  
  # OUR MISSION
  
-  - Find the Murderer
+  - [Find the Murderer](https://github.com/Kovaczso/SQL_Murder_Mystery/blob/main/SQLMurder.sql)
 
  
  
