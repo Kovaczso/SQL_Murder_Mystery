@@ -1,12 +1,7 @@
-![image](https://user-images.githubusercontent.com/104670003/183476782-08733321-f867-4e06-8315-dd9a595762f7.png)
-
-
-
-
-
-
 # SQL_Murder_Mystery
 There's been a Murder in SQL City! The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+
+![Picture1](https://user-images.githubusercontent.com/104670003/183478375-bf62d604-8065-4ef5-8963-6ee827619b09.png)
 
 ## Experienced SQL sleuths start here 
 A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​. Start by retrieving the corresponding crime scene report from the police department’s database.
